@@ -1,5 +1,7 @@
 #Esto se coloca en el CMD o Powershell y te deja activar el programa para etiquetar imagenes 
 
+cd C:\Users\andre\RealTimeObjectDetection\Tensorflow\labelImg 
+
 # Se tiene que ejecutar dentro de esta misma carpeta donde nos encontramos es decir utilizar cd hasta entrar en esta misma carpeta en el PC 
 # Esto es para utilicar un entorno virtual privado NO es necesario en si 
 #si tienes todas la librerias bien ajustadas según este video https://www.youtube.com/watch?v=pDXdlXlaCco
