@@ -5,7 +5,7 @@ cd C:\Users\andre\Documents\GitHub\RealTimeObjectDetection\Tensorflow\labelImg
 # Se tiene que ejecutar dentro de esta misma carpeta donde nos encontramos es decir utilizar cd hasta entrar en esta misma carpeta en el PC 
 # Esto es para utilicar un entorno virtual privado NO es necesario en si 
 #si tienes todas la librerias bien ajustadas según este video https://www.youtube.com/watch?v=pDXdlXlaCco
-conda activate tf_gpu
+conda activate tf_gpu     // # o tambien # conda activate signosTraductor (que sera el que use apartir de ahora que esta en D:\IA_ANACONDA\envs\) 
 
 # Esto ejecuta un programa python aparte que porta seguramente las librerias 
 
