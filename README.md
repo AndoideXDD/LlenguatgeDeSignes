@@ -1,4 +1,6 @@
 # LlenguatgeDeSignes
-Aquí es guarda tot el relacionat amb el Tr del fabulos i brillant Andreu Elias Puigvert Gómez
+Here is were I save the diferent versions of the project:
 
-Guardare en diferents carpetes tot el contingut de codi desenvolupat o experimental del projecta 
+  PaginaWeb == Version 0.21
+  
+  0.5 = Version 0.5
